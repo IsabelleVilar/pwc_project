@@ -1,6 +1,6 @@
 # pwc_project
 
-Este repositório contém cinco códigos escritos em JavaScript, que foram desenvolvidos como parte de um processo seletivo de estágio em julho de 2023. Os códigos resolvem diferentes tarefas relacionadas ao processamento de strings e incluem casos de teste. Eles foram projetados para funcionar com strings que contêm apenas caracteres alfabéticos, espaços e sinais de pontuação.
+Este repositório contém cinco códigos escritos em JavaScript, que foram desenvolvidos como parte de um processo seletivo de estágio em tecnologia em julho de 2023. Os códigos resolvem diferentes tarefas relacionadas ao processamento de strings e incluem casos de teste. Eles foram projetados para funcionar com strings que contêm apenas caracteres alfabéticos, espaços e sinais de pontuação.
 
 ## Tarefas
 
